@@ -16,7 +16,7 @@ public class UserInfoController {
 
     @RequestMapping("index")
     public String index() {
-        return "Hello world";
+        return "Hello world！！！";
     }
 
     @RequestMapping("/queryUserById")
